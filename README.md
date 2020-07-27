@@ -18,7 +18,7 @@
 
 ### 项目截图
 
-<img width="1400" src="http://git.hiolabs.com/github/all1.jpg"/>
+<img width="1000" src="https://img.mybei.cn/072710010098_0WechatIMG2.jpeg"/>
 
 ### 功能列表
 + 首页：搜索、Banner、公告、分类Icons、分类商品列表
@@ -37,7 +37,7 @@ F 修复share.js的一个bug
 A 增加发货时的订阅消息  
 
 - 12.14 新增生成分享图的功能  
-<img width="1000" src="https://img.mybei.cn/072710010098_0WechatIMG2.jpeg"/>
+<img width="200" src="https://img.mybei.cn/wx9a9aa2c93a76d729.o6zAJs7jzc0bQEwXjBm3q8QkbgrQ.Hru44NjZKOXQb943dd2052d8b5ccdadd13483ebd9d0a.png"/>
 
 #### 完整的购物流程，商品加入购物车 --> 收货地址的选择 --> 下单支付 --> 确认收货
 
