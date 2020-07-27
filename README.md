@@ -11,10 +11,7 @@
 #### 本项目需要配合  
 服务端： https://github.com/peizhou/ppshop-server  
 管理后台：https://github.com/peizhou/ppshop-admin  
-
-线上demo：http://hiolabs.com/demo/#/login  
-用户名：hiolabs  
-密码：hiolabs  
+ 
 
 ### 项目截图
 
