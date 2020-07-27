@@ -77,7 +77,7 @@ A 增加发货时的订阅消息
 - 项目地址  
 微信小程序：https://github.com/peizhou/ppshop-miniprogram  
 后台管理：https://github.com/peizhou/ppshop-admin  
-服务端： https://github.com/peizhou/ppshop-server  
+服务端： https://github.com/peizhou/ppshop_server  
 
 - 本项目会持续更新和维护，喜欢别忘了 Star，有问题可通过微信，谢谢您的关注。
 <img width="200" src="https://img.mybei.cn/contact.jpeg"/>
